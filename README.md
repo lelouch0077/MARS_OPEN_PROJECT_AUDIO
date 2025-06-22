@@ -16,13 +16,21 @@ An 80/20 split was performed on the original dataset.Cross entropy loss funcion 
 Accuracy=86.55%
 F1 Score=86.68%
 PER CLASS ACCURACY
+
 Class 0 Accuracy: 0.9429
+
 Class 1 Accuracy: 0.9036
+
 Class 2 Accuracy: 0.8611
+
 Class 3 Accuracy: 0.8235
+
 Class 4 Accuracy: 0.8395
+
 Class 5 Accuracy: 0.8158
+
 Class 6 Accuracy: 0.8810
+
 Class 7 Accuracy: 0.9412
 
 
