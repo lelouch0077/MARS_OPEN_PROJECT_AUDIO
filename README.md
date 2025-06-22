@@ -19,21 +19,21 @@ F1 Score=86.68%
 
 PER CLASS ACCURACY
 
-Class 0 Accuracy: 0.9429
+Class Neutral Accuracy: 0.9429
 
-Class 1 Accuracy: 0.9036
+Class Calm Accuracy: 0.9036
 
-Class 2 Accuracy: 0.8611
+Class Happy Accuracy: 0.8611
 
-Class 3 Accuracy: 0.8235
+Class Sad Accuracy: 0.8235
 
-Class 4 Accuracy: 0.8395
+Class Angry Accuracy: 0.8395
 
-Class 5 Accuracy: 0.8158
+Class Fearful Accuracy: 0.8158
 
-Class 6 Accuracy: 0.8810
+Class Disgusted Accuracy: 0.8810
 
-Class 7 Accuracy: 0.9412
+Class Surprised Accuracy: 0.9412
 
 
 ![image](https://github.com/user-attachments/assets/0046937f-c2f8-4e1b-868c-3f0994eabc4a)
